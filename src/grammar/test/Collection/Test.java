@@ -1,7 +1,7 @@
 package grammar.test.Collection;
 
-import grammar.material.APHero;
-import grammar.material.Hero;
+import grammar.material.hero.herotemplate.APHero;
+import grammar.material.hero.herotemplate.Hero;
 
 import java.util.ArrayList;
 import java.util.List;

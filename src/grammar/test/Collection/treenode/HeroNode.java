@@ -1,6 +1,6 @@
 package grammar.test.Collection.treenode;
 
-import grammar.material.Hero;
+import grammar.material.hero.herotemplate.Hero;
 import grammar.test.Collection.UtilInterface.TreeNode;
 
 import java.util.ArrayList;

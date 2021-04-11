@@ -1,6 +1,6 @@
 package grammar.test.Collection.linkedlist;
 
-import grammar.material.Hero;
+import grammar.material.hero.herotemplate.Hero;
 import grammar.test.Collection.UtilInterface.Stack;
 
 import java.util.LinkedList;

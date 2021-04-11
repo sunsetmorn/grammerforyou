@@ -1,6 +1,6 @@
 package grammar.test.Collection.hashmap;
 
-import grammar.material.Hero;
+import grammar.material.hero.herotemplate.Hero;
 
 import java.util.HashMap;
 

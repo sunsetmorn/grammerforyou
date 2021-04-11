@@ -1,8 +1,7 @@
 package grammar.test.lambda.polymerization;
 
-import grammar.material.Hero;
+import grammar.material.hero.herotemplate.Hero;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

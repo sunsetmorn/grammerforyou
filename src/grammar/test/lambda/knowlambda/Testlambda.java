@@ -1,6 +1,6 @@
 package grammar.test.lambda.knowlambda;
 
-import grammar.material.Hero;
+import grammar.material.hero.herotemplate.Hero;
 
 import java.util.ArrayList;
 import java.util.List;
