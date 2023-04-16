@@ -1,6 +1,6 @@
 package comparator;
 
-import grammar.material.hero.herotemplate.Hero;
+import grammar.test.hero.herotemplate.Hero;
 
 import java.util.*;
 
